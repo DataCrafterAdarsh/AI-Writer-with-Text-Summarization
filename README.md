@@ -6,7 +6,7 @@ Requirements
 • Windows PC with Python / Anaconda installed
 • Project files:
     - app.py
-    - summarizer.py  (or your AI model code)
+    - summarizer.py 
     - templates/index.html
 
 Folder Layout
@@ -47,7 +47,7 @@ Stopping the App
 ----------------
 • Press CTRL + C in the terminal window to stop the server.
 
-Optional (Easy Start)
+Optional 
 ---------------------
 Create a file named `start_summarizer.bat` with:
 
